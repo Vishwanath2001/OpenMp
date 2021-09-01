@@ -1,0 +1,2 @@
+# OpenMp
+practice openmp problems 
